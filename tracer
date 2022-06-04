@@ -211,7 +211,7 @@ if _G.DefaultSettings == true then
     _G.TracerColor = Color3.fromRGB(40, 90, 255)
     _G.TracerThickness = 1
     _G.TracerTransparency = 0.5
-    _G.ModeSkipKey = Enum.KeyCode.E
+    _G.ModeSkipKey = Enum.KeyCode.L
     _G.DisableKey = Enum.KeyCode.Q
 end
 
